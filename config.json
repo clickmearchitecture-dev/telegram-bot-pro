@@ -1,0 +1,62 @@
+{
+    "BOT_TOKEN": "8740528596:AAEYxQKDQW-st890d0bKRG9oNuNKxeSNtcA",
+    "SHEET_NAME": "My_Customer_Orders",
+    "MENU_BUTTONS": {
+        "សេវាកម្មផ្នែកបញ្ជីលក់កាហ្វេ+បាយម្ហូបកម្មង់": {
+            "id": "9aaf5b91",
+            "reply_text": "សូមស្វាគមន៍មកកាន់សេវាកម្មហាងកាហ្វេរបស់យើង! សូមជ្រើសរើសជម្រើសខាងក្រោម៖",
+            "image_path": "",
+            "inlines": [
+                {
+                    "id": "3b1a2827",
+                    "text": "🌐 ចូលទៅកាន់ Channel ផ្នែកបញ្ជីលក់កាហ្វេ",
+                    "url": "https://t.me/",
+                    "type": "url",
+                    "inline_reply_text": "",
+                    "inline_image_path": ""
+                },
+                {
+                    "id": "b09de138",
+                    "text": "🌐 ចូលទៅកាន់ Channel ផ្នែកបញ្ជីលក់បាយម្ហូបកម្មង់",
+                    "url": "https://t.me/",
+                    "type": "url",
+                    "inline_reply_text": "",
+                    "inline_image_path": ""
+                },
+                {
+                    "id": "afc798d7",
+                    "text": "🌐 ចូលទៅកាន់ Channel ផ្នែកបញ្ជីកក់កន្លែងទុកមុន",
+                    "url": "https://t.me/",
+                    "type": "url",
+                    "inline_reply_text": "",
+                    "inline_image_path": ""
+                }
+            ]
+        },
+        "សេវាកម្មផ្នែកលក់បាយម្ហូបកម្មង់វិចខ្ចប់": {
+            "id": "5aa47ee4",
+            "reply_text": "សូមស្វាគមន៍មកកាន់សេវាកម្មហាងកាហ្វេរបស់យើង! សូមជ្រើសរើសជម្រើសខាងក្រោម៖",
+            "image_path": "",
+            "inlines": []
+        },
+        "មានបញ្ហាទាក់ទងមកកាន់ Admin ផ្ទាល់": {
+            "id": "41df21d3",
+            "reply_text": "សូមស្វាគមន៍មកកាន់សេវាកម្មហាងកាហ្វេរបស់យើង! សូមជ្រើសរើសជម្រើសខាងក្រោម៖",
+            "image_path": "",
+            "inlines": [
+                {
+                    "id": "a86e9619",
+                    "text": "🌐 ឆាតមកកាន់ Admin បញ្ចេញមតិយោបល់",
+                    "url": "https://t.me/",
+                    "type": "url",
+                    "inline_reply_text": "",
+                    "inline_image_path": ""
+                }
+            ]
+        }
+    },
+    "SCHEDULED_TASKS": [],
+    "KNOWN_USERS": [
+        "428696356"
+    ]
+}

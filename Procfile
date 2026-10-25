@@ -1,0 +1,1 @@
+worker: python main_telebot_googlesheets_single.py
